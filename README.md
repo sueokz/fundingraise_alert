@@ -25,6 +25,7 @@ Google Apps Scriptには、トリガーという機能があります。
 
 
 ## 用語について
+下記の記事がとても分かりやすいです。
 https://bitsen.co.jp/fundingrate-strategy/  (1)
 
 
