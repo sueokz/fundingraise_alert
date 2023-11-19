@@ -19,8 +19,7 @@ Google Apps Scriptには、トリガーという機能があり、この機能�
 
 ## 実行結果と修正案
 1時間ごとに通知がされているの確認できました。<br>
-[![Uploading funding.jpg…]()
-](https://github.com/sueokz/fundingraise_alert/assets/77056617/c6f97187-1de6-4eb5-a9f6-51b384887849)
+hhttps://github.com/sueokz/fundingraise_alert/assets/77056617/c6f97187-1de6-4eb5-a9f6-51b384887849
 
 ## 実行結果からの考察と修正案について
 ### 結論
