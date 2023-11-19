@@ -1,10 +1,10 @@
 function triggerBybitFundingRate() {
   // Bybit APIキーを指定
-  var api_key = "ry8aE8fBe37HIiBEV0";
-  var secret_key = "8MzjWzHS5YjYCXdlhAfqqFd4Ldmnz3Ppz7C7";
+  var api_key = "";
+  var secret_key = "";
 
   // LINE Notifyのアクセストークンを指定
-  var line_notify_token = "mqScpXdKgRHnaDLTP3CwuOJQJMOuA36CnO263Rl8pwW";
+  var line_notify_token = "";
 
   // Bybit APIのエンドポイントを指定
   var url = "https://api.bybit.com/v2/public/tickers";
